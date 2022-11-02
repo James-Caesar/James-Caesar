@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @James-Caesar
+- Hi There👋🏻,I’m @James-Caesar
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on New Stuffs
