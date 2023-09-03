@@ -1,7 +1,7 @@
 - Hi There👋🏻,I’m @James-Caesar
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on New Stuffs
+- 💞️ I’m looking forward in collaborate on New Stuffs
 - 📫 How to reach me IG @Jamescaesar2022
 
 <!---
